@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/31 17:39:32.000.243,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/05 10:28:44.000.531,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/05 13:50:32.854,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/05 13:51:37.605,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\CalculadoraMediaEscolar.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/05 13:51:37.605,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\CalculadoraMediaEscolar.dfm=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/05/05 14:49:05.577,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Calculadora Media Escolar\CalculadoraEscolar.dproj=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
